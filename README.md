@@ -1,3 +1,4 @@
+![Black Yellow Bold Bag Fashion Sale Banner](https://github.com/CodingGeniusCmoleni/CodingGeniusCmoleni/assets/163125479/e1c40512-db0f-4b08-afce-c4b4748aa66e)
 ### Hi there 👋 My name is Chisomo Blessings Moleni. I am from Chandigarh University taking CSE in Specialisation with AI & ML.🏫
 I have a huge interest in Data sciences, programming, python 📝as well as Artificial intelligence and machine learning👨🏾‍💻!. currently studying python, c++, react js.
 
