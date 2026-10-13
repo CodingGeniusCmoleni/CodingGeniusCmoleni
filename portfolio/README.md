@@ -1,6 +1,6 @@
 # Chisomo Moleni — Portfolio
 
-A responsive editorial portfolio with locally bundled images, project notes, keyboard-accessible dialogs, email copy, and reduced-motion support.
+A cinematic editorial portfolio with staggered text reveals, image parallax, scroll-driven typography, gentle pointer depth, animated project dialogs, and a persistent light/dark theme. Includes a motion toggle, device reduced-motion support, locally bundled images, keyboard-accessible dialogs, and email copy.
 
 ## Run locally
 
@@ -30,3 +30,9 @@ Static output is `dist/`. The Sites manifest is in `.openai/hosting.json`. For o
 ## Verification
 
 JavaScript syntax, HTML structure, local asset references, section anchors, and project data are checked before publication. Browser-based visual QA was unavailable in the build environment.
+
+## Vercel deployment
+
+Import `CodingGeniusCmoleni/CodingGeniusCmoleni` and set **Root Directory** to `portfolio`, **Framework Preset** to Other, and **Output Directory** to `dist`. There is no install or build command. `vercel.json` configures static output and response headers.
+
+Theme follows the operating-system preference until the visitor chooses Day/Night. Theme and motion choices are stored locally. Browsers with the View Transitions API get a circular theme reveal; other browsers switch theme directly. All core content remains readable without animation.
